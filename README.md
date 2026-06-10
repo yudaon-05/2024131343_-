@@ -1,3 +1,1 @@
-# 2024131343_-유다온
-2024131343 유다온 sw 기말 과제 
-https://yudaon-05.github.io/2024131343_-/
+https://yudaon-05.github.io/2024131343_-/기말과제/index.html
